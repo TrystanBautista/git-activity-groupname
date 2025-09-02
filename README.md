@@ -1,4 +1,4 @@
-# git-activity-groupname
+# git-activity-BAUTISTA-CAJUCOM
 
 Trystan Jedd Bautista - 08/19/25
  HEAD
